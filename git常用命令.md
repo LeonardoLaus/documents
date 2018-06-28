@@ -262,7 +262,7 @@ eb7738bbbe1f82a916843c67b6ec22df52024659 add read me content.
 769d8705ef51c067eff5edb4ae47214a518fa377 (origin/master, origin/develop, develop) initial commit.
 ```
 **说明：**git客户端自带的`gitk`可查看仓库的历史记录，并可以做可视化操作。执行命令`gitk`。
-![gitk|center](./res/git/1516169637966.png)
+![gitk|center](./images/git/1516169637966.png)
 #### 回退
 回退主要涉及的命令是`git reset`。一般利用`git reset`可以达到两种回退操作。
 1. 文件从暂存区回退到工作区。
